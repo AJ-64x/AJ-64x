@@ -6,7 +6,7 @@
 
   <a href="https://github.com/AJ-64x"><img src="https://img.shields.io/badge/GitHub-AJ--64x-161B22?style=flat-square&logo=github&logoColor=58A6FF" alt="GitHub" /></a>
 
-  <sub>🕹️ Latest project: <a href="https://github.com/AJ-64x/Cartridge"><b>Cartridge</b></a>, a BIOS installer for Batocera</sub>
+  <sub>🕹️ Projects: <a href="https://github.com/AJ-64x/Cartridge"><b>Cartridge</b></a>, a BIOS installer for Batocera · <a href="https://github.com/AJ-64x/Cartographer"><b>Cartographer</b></a>, a ROM installer for Batocera</sub>
 
   <a href="https://github.com/AJ-64x/Cartridge/releases/latest"><img src="https://img.shields.io/github/v/release/AJ-64x/Cartridge?style=flat-square&color=1F6FEB&labelColor=161B22&label=Latest" alt="Latest release" /></a>
   <img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=58A6FF" alt="Rust" />
