@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.8upload.com/image/3f5f200a9223fffe/patrick-happy.gif" alt="AJ64" width="90" />
+
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=1100&color=58A6FF&center=true&vCenter=true&width=320&height=30&lines=Hey%2C+I'm+AJ64+%F0%9F%91%8B;Coding+%26+building+projects" alt="AJ64" />
 
