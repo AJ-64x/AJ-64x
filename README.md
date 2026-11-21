@@ -1,17 +1,26 @@
-<div align="center">
+```text
+┌───────────────────────────────┐
+│    _      _        __   _  _  │
+│   /_\  _ | | ___  / /  | || | │
+│  / _ \| || ||___|/ _ \ |_  _| │
+│ /_/ \_\\__/      \___/   |_|  │
+└───────────────────────────────┘
+```
 
+```toml
+[profile]
+name  = "AJ-64"
+stack = ["Rust", "HTML"]
+```
 
+### `projects`
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=1100&color=58A6FF&center=true&vCenter=true&width=320&height=30&lines=Hey%2C+I'm+AJ64+%F0%9F%91%8B;Coding+%26+building+projects" alt="AJ64" />
+* **[`cartridge`](https://github.com/AJ-64x/cartridge)** — Batocera BIOS installer
+* **[`garmin-webloader`](https://github.com/AJ-64x/garmin-webloader)** — Browser-based Garmin watch loader
 
-  <a href="https://github.com/AJ-64x"><img src="https://img.shields.io/badge/GitHub-AJ--64x-161B22?style=flat-square&logo=github&logoColor=58A6FF" alt="GitHub" /></a>
+---
 
-  <sub>🕹️ Projects: <a href="https://github.com/AJ-64x/Cartridge"><b>Cartridge</b></a>, a BIOS installer for Batocera · <a href="https://github.com/AJ-64x/Garmin-Webloader"><b>Garmin-Webloader</b></a>, a webloader for Garmin watches</sub>
-
-  <a href="https://github.com/AJ-64x/Cartridge/releases/latest"><img src="https://img.shields.io/github/v/release/AJ-64x/Cartridge?style=flat-square&color=1F6FEB&labelColor=161B22&label=Latest" alt="Latest release" /></a>
-  <img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=58A6FF" alt="Rust" />
-  <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=58A6FF" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=58A6FF" alt="Git" />
-
-</div>
-PLEASE FOLLOW ME
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![Garmin](https://img.shields.io/badge/Garmin-000000?style=flat-square&logo=garmin&logoColor=white)
+![Batocera](https://img.shields.io/badge/Batocera-000000?style=flat-square&logo=linux&logoColor=white)
