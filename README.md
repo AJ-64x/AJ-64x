@@ -24,3 +24,4 @@ stack = ["Rust", "HTML"]
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
 ![Garmin](https://img.shields.io/badge/Garmin-000000?style=flat-square&logo=garmin&logoColor=white)
 ![Batocera](https://img.shields.io/badge/Batocera-000000?style=flat-square&logo=linux&logoColor=white)
+[![Follow](https://img.shields.io/github/followers/AJ-64x?label=Follow&style=flat-square&logo=github&logoColor=white&labelColor=000000&color=333333)](https://github.com/AJ-64x)
